@@ -10,7 +10,6 @@ def locate_card(cards, query):
     return "The query was not found in the deck."
 
 
-
 if __name__ == "__main__":
     cards = [13, 11, 7, 7, 4, 3, 1, 0]
     query = 7
